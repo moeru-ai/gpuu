@@ -17,16 +17,13 @@
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "import": "./dist/index.mjs",
-      "require": "./dist/index.cjs"
+      "import": "./dist/index.mjs"
     },
     "./webgpu": {
       "types": "./dist/webgpu/index.d.ts",
-      "import": "./dist/webgpu/index.mjs",
-      "require": "./dist/webgpu/index.cjs"
+      "import": "./dist/webgpu/index.mjs"
     }
   },
-  "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "files": [
