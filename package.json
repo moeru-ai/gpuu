@@ -46,6 +46,7 @@
     "@antfu/eslint-config": "^4.12.0",
     "@types/node": "^22.15.2",
     "@webgpu/types": "^0.1.60",
+    "bumpp": "^10.1.0",
     "eslint": "^9.24.0",
     "eslint-plugin-format": "^1.0.1",
     "typescript": "^5.8.3",
