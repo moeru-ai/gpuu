@@ -1,7 +1,7 @@
 {
   "name": "gpuu",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packageManager": "pnpm@10.9.0",
   "description": "A collection of utilities for working with GPUs, especially for WebGPU.",
   "author": {
@@ -12,8 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moeru-ai/airi.git",
-    "directory": "packages/gpuu"
+    "url": "https://github.com/moeru-ai/gpuu.git"
   },
   "exports": {
     ".": {
