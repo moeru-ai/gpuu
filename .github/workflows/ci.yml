@@ -43,8 +43,7 @@ jobs:
 
       - name: Build
         run: |
-          pnpm run packages:build
-          pnpm run apps:build
+          pnpm run build
 
   typecheck:
     name: Type Check

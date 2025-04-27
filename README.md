@@ -40,7 +40,8 @@ const result = await check()
 if (result.supported) {
   console.log('WebGPU is supported!')
   console.log('FP16 support:', result.fp16Supported)
-} else {
+}
+else {
   console.log('WebGPU is not supported:', result.reason)
 }
 
