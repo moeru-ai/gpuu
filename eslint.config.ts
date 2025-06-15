@@ -1,5 +1,5 @@
 import antfu from '@antfu/eslint-config'
-import { importX} from 'eslint-plugin-import-x'
+import { importX } from 'eslint-plugin-import-x'
 
 export default antfu({
   rules: {
