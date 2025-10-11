@@ -2,7 +2,6 @@
   "name": "gpuu",
   "type": "module",
   "version": "1.0.5",
-  "version": "1.0.4",
   "packageManager": "pnpm@10.18.2",
   "description": "A collection of utilities for working with GPUs, especially for WebGPU.",
   "author": {
