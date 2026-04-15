@@ -2,7 +2,7 @@
   "name": "gpuu",
   "type": "module",
   "version": "1.0.6",
-  "packageManager": "pnpm@10.18.2",
+  "packageManager": "pnpm@10.33.0",
   "description": "A collection of utilities for working with GPUs, especially for WebGPU.",
   "author": {
     "name": "Neko Ayaka",
@@ -43,16 +43,16 @@
     "up": "taze -w -r -I -f && pnpm prune && pnpm dedupe"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^5.4.1",
+    "@antfu/eslint-config": "^8.2.0",
     "@arethetypeswrong/cli": "^0.18.2",
-    "@types/node": "^24.7.1",
-    "@webgpu/types": "^0.1.65",
-    "bumpp": "^10.3.1",
-    "eslint": "^9.37.0",
-    "taze": "^19.7.0",
-    "tsdown": "^0.15.6",
-    "typescript": "^5.9.3",
-    "unplugin-unused": "^0.5.4"
+    "@types/node": "^25.6.0",
+    "@webgpu/types": "^0.1.69",
+    "bumpp": "^11.0.1",
+    "eslint": "^10.2.0",
+    "taze": "^19.11.0",
+    "tsdown": "^0.21.8",
+    "typescript": "^6.0.2",
+    "unplugin-unused": "^0.5.7"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
